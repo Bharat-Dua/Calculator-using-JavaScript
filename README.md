@@ -30,7 +30,7 @@ This project is a basic calculator designed for performing simple arithmetic cal
 
 
 ## Screenshot
-![Calculator image](image/calculator.png)
+![Calculator image](Image/calculator.png)
 
 ## Getting Started
 
